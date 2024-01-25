@@ -26,6 +26,10 @@ function App() {
           Learn React
         </a>
       </header>
+
+      <footer>
+        <p>&copy; 2024 Your Website. All rights reserved.</p>
+      </footer>
     </div>
   );
 }
